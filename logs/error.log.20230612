@@ -1,0 +1,35 @@
+2023-06-12 11:38:53	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 11:39:24	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 11:39:37	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 11:40:25	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 11:55:42	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 11:56:13	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 11:56:34	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 11:56:52	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 11:57:14	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 11:58:27	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:03:03	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:03:46	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:05:55	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:06:30	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:09:37	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:13:41	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:16:15	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:16:36	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:17:16	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:18:01	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:23:49	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:24:11	ERROR	utils/request.go:61	URL连接出错Post "http://127.0.0.1:3000/aa": dial tcp 127.0.0.1:3000: connect: connection refused
+2023-06-12 12:24:51	ERROR	utils/request.go:61	URL连接出错Post "http://127.0.0.1:3000/aa": dial tcp 127.0.0.1:3000: connect: connection refused
+2023-06-12 12:25:56	ERROR	utils/request.go:61	URL连接出错Post "http://127.0.0.1:3000/aa": dial tcp 127.0.0.1:3000: connect: connection refused
+2023-06-12 12:25:59	ERROR	utils/request.go:61	URL连接出错Post "http://127.0.0.1:3000/aa": dial tcp 127.0.0.1:3000: connect: connection refused
+2023-06-12 12:26:05	ERROR	utils/request.go:61	URL连接出错Post "http://127.0.0.1:3000/aa": dial tcp 127.0.0.1:3000: connect: connection refused
+2023-06-12 12:30:53	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:35:30	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:36:21	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:36:26	ERROR	tcp/server.go:70	客户端断线了 类型1，192.168.0.229:57503 - err:EOF
+2023-06-12 12:39:31	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:39:43	ERROR	tcp/server.go:70	客户端断线了 类型1，192.168.0.229:57510 - err:EOF
+2023-06-12 12:40:23	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:42:57	ERROR	tcp-http-golang/main.go:21	333333322222
+2023-06-12 12:45:46	ERROR	tcp-http-golang/main.go:21	333333322222
